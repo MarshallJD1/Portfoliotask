@@ -25,6 +25,15 @@ h2 {
 .sharp-corners * {
     border-radius: 0;
 }
+
+.custombtn {
+    background-color: #1f7798;
+
+}
+
+.custombtn:hover{
+    background-color: #1d6d8a;
+}
 /* About section**/
 
 #about {
